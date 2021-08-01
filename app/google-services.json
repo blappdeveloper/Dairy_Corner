@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "138288173311",
+    "project_id": "dairy-corner",
+    "storage_bucket": "dairy-corner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138288173311:android:6a666bfa491b35f8897cca",
+        "android_client_info": {
+          "package_name": "com.leeladher.dairycorner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138288173311-js6f7a3evlhbehrf51j9rc06fmp30akf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNTrUqOAzxvhqb6Wgc7ZOSPiPkbTonCWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138288173311-js6f7a3evlhbehrf51j9rc06fmp30akf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
